@@ -4,7 +4,7 @@
 A robust, real-time IoT solution built using the ESP-IDF framework. This project serves as a bridge between low-level hardware sensors and high-level web interfaces, utilizing a dual-core architecture to ensure data integrity and system responsiveness.
 📽️ Project Demo
 
-In this video: Watch the real-time temperature updates and the instant "!!! OBSTACLE !!!" alert when the IR sensor is triggered.
+In video File : Watch the real-time temperature updates and the instant "!!! OBSTACLE !!!" alert when the IR sensor is triggered.
 ________________________________________
 🛠️ Hardware Specifications & Pin Mapping
 I designed this system using the following physical configuration:
